@@ -11,5 +11,3 @@ This project is implemented in Python 3.8+ and uses PyTorch for deep learning. T
 | matplotlib          | latest                     |
 | pillow              | latest                     | 
 | rasterio            | latest                     |
-# 🗂 Dataset Structure
-F:\DMCFNet\train_data\images(labels)
